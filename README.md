@@ -11,7 +11,7 @@
 <br/>
 
 <p align="center">
-  <hr width="50%" color="#333" size="1"/>
+  <hr width="80%" color="#333" size="1"/>
 </p>
 
 <br/>
