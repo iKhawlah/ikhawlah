@@ -1,11 +1,9 @@
-<h1 align="center">𝐓𝐮𝐫𝐧𝐢𝐧𝐠 𝐂𝐮𝐫𝐢𝐨𝐬𝐢𝐭𝐲 𝐈𝐧𝐭𝐨 𝐂𝐨𝐝𝐞</h1>
-<p align="center" style="margin-top:-15px;">
+<h2 align="center">𝐓𝐮𝐫𝐧𝐢𝐧𝐠 𝐂𝐮𝐫𝐢𝐨𝐬𝐢𝐭𝐲 𝐈𝐧𝐭𝐨 𝐂𝐨𝐝𝐞</h2>
+<p align="center">
   <img src="photo_5796297926802870389_x.jpg" width="500" alt="Khawlah banner"/>
-</p>
-<p align="center" style="margin-top:-15px;">
+  <br/>
   <sub><i>A mind wired to wonder.</i></sub>
 </p>
-<br/>
 <br/>
 <p align="center">
   <a href="https://www.linkedin.com/in/khawlah-alsudais">
