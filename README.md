@@ -8,6 +8,12 @@
   <i>A mind wired to wonder.</i>
 </p>
 
+<br/>
+
+<hr width="50%" color="#333" size="1"/>
+
+<br/>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/khawlah-alsudais">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
