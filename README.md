@@ -2,7 +2,7 @@
 <p align="center" style="margin-top:-15px;">
   <img src="photo_5796297926802870389_x.jpg" width="500" alt="Khawlah banner"/>
 </p>
-<p align="center">
+<p align="center" style="margin-top:-15px;">
   <sub><i>A mind wired to wonder.</i></sub>
 </p>
 <br/>
