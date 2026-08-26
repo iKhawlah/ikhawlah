@@ -10,9 +10,7 @@
 
 <br/>
 
-<p align="center">
-  <hr width="100%" color="#666" size="0.1"/>
-</p>
+
 
 <br/>
 
