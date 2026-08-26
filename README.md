@@ -1,5 +1,5 @@
-<h1 align="center"> Turning Curiosity Into Code</h1>
-<p align="center">
+<h1 align="center">𝐓𝐮𝐫𝐧𝐢𝐧𝐠 𝐂𝐮𝐫𝐢𝐨𝐬𝐢𝐭𝐲 𝐈𝐧𝐭𝐨 𝐂𝐨𝐝𝐞</h1>
+<p align="center" style="margin-top:-15px;">
   <img src="photo_5796297926802870389_x.jpg" width="500" alt="Khawlah banner"/>
 </p>
 <p align="center">
