@@ -1,7 +1,7 @@
 <h1 align="center">Turning Curiosity Into Code</h1>
 
 <p align="center">
-  <img src="photo_5796297926802870391_y.jpg" width="500" alt="Khawlah banner"/>
+  <img src="photo_5796297926802870391_y.jpg" width="350" alt="Khawlah banner"/>
 </p>
 
 <p align="center">
