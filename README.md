@@ -1,15 +1,21 @@
 <h2 align="center">𝐓𝐮𝐫𝐧𝐢𝐧𝐠 𝐂𝐮𝐫𝐢𝐨𝐬𝐢𝐭𝐲 𝐈𝐧𝐭𝐨 𝐂𝐨𝐝𝐞</h2>
+
 <p align="center">
   <img src="photo_5796297926802870389_x.jpg" width="500" alt="Khawlah banner"/>
   <br/>
-<p><i>A mind wired to wonder.</i></p></p>
+  <i><font size="4">A mind wired to wonder.</font></i>
+</p>
+
 <br/>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/khawlah-alsudais">
     <img src="https://img.shields.io/badge/LinkedIn-14213D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
 <h2 align="center">Technologies</h2>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-14213D?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-14213D?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
