@@ -2,8 +2,7 @@
 <p align="center">
   <img src="photo_5796297926802870389_x.jpg" width="500" alt="Khawlah banner"/>
   <br/>
-  <sub><i>A mind wired to wonder.</i></sub>
-</p>
+<p><i>A mind wired to wonder.</i></p></p>
 <br/>
 <p align="center">
   <a href="https://www.linkedin.com/in/khawlah-alsudais">
