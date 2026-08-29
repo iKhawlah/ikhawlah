@@ -10,7 +10,7 @@ a
 
 <p align="center">
   <a href="https://www.linkedin.com/in/khawlah-alsudais">
-    <img src="https://img.shields.io/badge/LinkedIn-14213D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="100"/>
+    <img src="https://img.shields.io/badge/LinkedIn-14213D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="120"/>
   </a>
 </p>
 
