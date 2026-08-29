@@ -5,12 +5,12 @@
   <br/>
   <i><font size="4">A mind wired to wonder.</font></i>
 </p>
-
+a
 <br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/khawlah-alsudais">
-    <img src="https://img.shields.io/badge/LinkedIn-14213D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-14213D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="200"/>
   </a>
 </p>
 
