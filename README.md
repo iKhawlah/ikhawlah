@@ -5,7 +5,7 @@
   <br/>
   <i><font size="4">A mind wired to wonder.</font></i>
 </p>
-a
+
 <br/>
 
 <p align="center">
